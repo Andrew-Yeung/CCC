@@ -31,3 +31,4 @@ public class MultipleChoice {
 		}
 		System.out.println(counter);
 	}
+}
