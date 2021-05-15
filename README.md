@@ -1,1 +1,1 @@
-I worked hard on these but feel free to take them :)
+A combination of CCC solutions that ive done over the years 
