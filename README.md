@@ -1,1 +1,1 @@
-When will I get gud
+yo
